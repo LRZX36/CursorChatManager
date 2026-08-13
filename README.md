@@ -6,7 +6,7 @@ Windows 本地桌面工具：浏览并**硬删除** Cursor IDE 对话（含 UI �
 
 ## 下载
 
-从 [Releases](../../releases) 下载 `CursorChatManager.exe`，无需安装，退出 Cursor 后直接运行。
+从 [Releases](https://github.com/LRZX36/cursor-chat-manager/releases) 下载 `CursorChatManager.exe`，无需安装，退出 Cursor 后直接运行。
 
 ## 重要
 
