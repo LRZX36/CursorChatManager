@@ -14,6 +14,25 @@
 
 ---
 
+## 效果预览
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="520" valign="top">
+        <img src="docs/screenshots/preview-main.png" alt="主界面" width="500"/><br/>
+        <sub><b>主界面</b></sub>
+      </td>
+      <td align="center" width="420" valign="top">
+        <img src="docs/screenshots/preview-restore.png" alt="恢复备份" width="400"/><br/>
+        <sub><b>恢复备份</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## 使用前准备
 
 1. 已安装 **Cursor**
@@ -98,6 +117,7 @@ CursorChatManager/
 ├── main.py                      # 程序入口
 ├── build.spec                   # PyInstaller 打包配置
 ├── requirements.txt
+├── docs/screenshots/            # 效果截图
 └── src/cursor_chat_manager/
     ├── app.py                   # CustomTkinter 界面
     ├── store.py                 # 对话读写 / 删除
