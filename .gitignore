@@ -1,0 +1,9 @@
+[build]
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.cursor-chat-manager/
